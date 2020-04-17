@@ -4,9 +4,9 @@
 
 
 
-_This project uses Webpack_
+### This project uses Webpack
 
-## Instructions
+_Instructions_
 
 Install dependencies
 
